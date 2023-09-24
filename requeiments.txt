@@ -1,0 +1,6 @@
+1. Python:  numpy pandas 
+2. ml: Logistic regression
+3.pandas
+4.scikit-learn
+5.seaborn
+6.Flask
